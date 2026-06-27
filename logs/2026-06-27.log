@@ -1,0 +1,649 @@
+2026-06-27 20:23:09 [INFO] wechat_spider - 搜索公众号 [人民日报] 第 1 页文章...
+2026-06-27 20:23:09 [INFO] wechat_spider - 公众号 [人民日报] 获取到 9 篇文章
+2026-06-27 20:23:20 [INFO] wechat_spider - 搜索公众号 [人民日报] 第 1 页文章...
+2026-06-27 20:23:21 [INFO] wechat_spider - 公众号 [人民日报] 获取到 9 篇文章
+2026-06-27 20:23:21 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1FX0i4gQdd5nb3MJGKnbr9h34Nxo0Cf8VqXa8Fplpd9g_yRglAUa_pOoINY9NqCRlEZtAVxXa_JoSOgXv5q3Jrgw_5ElTmsWqbqIFfj3IHECmEdbw35pkLnUN8BrR83gqg-Fw60XZfQnof1vyRZ1VQn7xhDEmvzHsjtKCgGReU8Sm-jk3y0dCjZmTJnxVm-X9dynTAsaHkGyUfKmrqiKXLFcvUoAZZH7Q..&type=2&query=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5&token=E01E811B68202C0A7670234E3C07979E76D7BEB06A3FC0B8
+2026-06-27 20:24:10 [INFO] wechat_spider - 搜索公众号 [人民日报] 第 1 页文章...
+2026-06-27 20:24:10 [INFO] wechat_spider - 公众号 [人民日报] 获取到 9 篇文章
+2026-06-27 20:24:10 [INFO] wechat_spider - 抓取文章: https://mp.weixin.qq.com/s?src=11&timestamp=1782563050&ver=6808&signature=RxDBagPP0dHEuxS7W4uZdXsRPler9WlXkT8u8Na7gL2BSfueUXc69xmg5eTno807z24oW282J9xEb2IJ4Vg8nUfKio3YkapurBBIJ9kJVWHBBC0oxsTLS00FRjeoONIP&new=1
+2026-06-27 20:24:11 [INFO] wechat_spider - 文章解析完成: 停车61分钟按2小时计费，人民日报：一些城市管理者将停车问题念成了“生意经”，停车计费就该是本“分秒必争”的明白账
+2026-06-27 20:24:11 [INFO] wechat_spider - 获取评论，comment_id=4579550469676908545
+2026-06-27 20:28:31 [INFO] wechat_spider - 搜索公众号 [人民日报] 第 1 页文章...
+2026-06-27 20:28:31 [INFO] wechat_spider - 公众号 [人民日报] 获取到 9 篇文章
+2026-06-27 20:28:31 [INFO] wechat_spider - 抓取文章: https://mp.weixin.qq.com/s?src=11&timestamp=1782563311&ver=6808&signature=RxDBagPP0dHEuxS7W4uZdXsRPler9WlXkT8u8Na7gL2BSfueUXc69xmg5eTno807dZ-1OMKWDGAUZm8HFD0blr506rL27-N5d6qW2iSLbcTpaLnBjU2iHzBgtW7gGdhx&new=1
+2026-06-27 20:28:32 [INFO] wechat_spider - 文章解析完成: 停车61分钟按2小时计费，人民日报：一些城市管理者将停车问题念成了“生意经”，停车计费就该是本“分秒必争”的明白账
+2026-06-27 20:28:32 [INFO] wechat_spider - 获取评论，comment_id=4579550469676908545
+2026-06-27 20:29:01 [INFO] wechat_spider - ============================================================
+2026-06-27 20:29:01 [INFO] wechat_spider - 微信公众号爬虫启动
+2026-06-27 20:29:01 [INFO] wechat_spider - 时间: 2026-06-27T20:29:01.606810
+2026-06-27 20:29:01 [INFO] wechat_spider - ============================================================
+2026-06-27 20:29:01 [INFO] wechat_spider - ============================================================
+2026-06-27 20:29:01 [INFO] wechat_spider - 开始爬取公众号: 人民日报
+2026-06-27 20:29:01 [INFO] wechat_spider - ============================================================
+2026-06-27 20:29:01 [INFO] wechat_spider - 搜索公众号 [人民日报] 第 1 页文章...
+2026-06-27 20:29:01 [INFO] wechat_spider - 公众号 [人民日报] 获取到 9 篇文章
+2026-06-27 20:29:09 [INFO] wechat_spider - 公众号 [人民日报] 共获取 1 篇文章
+2026-06-27 20:29:09 [INFO] wechat_spider - 
+--- [1/1] 停车61分钟按2小时计费,人民日报:一些城市管理者将停车问题念成了“生意经”,停车计费就该是本“分秒必争”的明白账 ---
+2026-06-27 20:29:13 [INFO] wechat_spider - 抓取文章: https://mp.weixin.qq.com/s?src=11&timestamp=1782563341&ver=6808&signature=RxDBagPP0dHEuxS7W4uZdXsRPler9WlXkT8u8Na7gL2BSfueUXc69xmg5eTno807WRy30UTA3GryQGfJWh*Qu798R-zRz1mP947ukY6*KXjd-OQlhrW4wtGeFaYL5ZD9&new=1
+2026-06-27 20:29:14 [INFO] wechat_spider - 文章解析完成: 停车61分钟按2小时计费，人民日报：一些城市管理者将停车问题念成了“生意经”，停车计费就该是本“分秒必争”的明白账
+2026-06-27 20:29:17 [INFO] wechat_spider - 获取评论，comment_id=4579550469676908545
+2026-06-27 20:29:17 [WARNING] wechat_spider - 评论API触发微信验证，无法获取评论。解决方法：在config.WECHAT_COOKIE中配置有效的微信cookie，或通过微信客户端抓包获取key参数填入config
+2026-06-27 20:29:17 [INFO] wechat_spider - 文章JSON已保存: C:\Users\zyf\WorkBuddy\2026-06-27-20-17-06\wechat_spider\data\长江日报_停车61分钟按2小时计费人民日报一些_20260627_202917.json
+2026-06-27 20:29:22 [INFO] wechat_spider - 公众号 [人民日报] 爬取完成: 1/1 篇成功
+2026-06-27 20:29:25 [INFO] wechat_spider - 批量数据已保存: C:\Users\zyf\WorkBuddy\2026-06-27-20-17-06\wechat_spider\data\wechat_articles_20260627_202925.json
+2026-06-27 20:29:25 [INFO] wechat_spider - 
+============================================================
+2026-06-27 20:29:25 [INFO] wechat_spider - 爬取完成！统计信息:
+2026-06-27 20:29:25 [INFO] wechat_spider -   爬取公众号数: 1
+2026-06-27 20:29:25 [INFO] wechat_spider -   发现文章数:   1
+2026-06-27 20:29:25 [INFO] wechat_spider -   成功解析数:   1
+2026-06-27 20:29:25 [INFO] wechat_spider -   获取评论数:   0
+2026-06-27 20:29:25 [INFO] wechat_spider -   错误次数:     0
+2026-06-27 20:29:25 [INFO] wechat_spider -   汇总文件:     C:\Users\zyf\WorkBuddy\2026-06-27-20-17-06\wechat_spider\data\wechat_articles_20260627_202925.json
+2026-06-27 20:29:25 [INFO] wechat_spider - ============================================================
+2026-06-27 20:34:04 [INFO] wechat_spider - ============================================================
+2026-06-27 20:34:04 [INFO] wechat_spider - 微信公众号爬虫启动
+2026-06-27 20:34:04 [INFO] wechat_spider - 时间: 2026-06-27T20:34:04.932053
+2026-06-27 20:34:04 [INFO] wechat_spider - ============================================================
+2026-06-27 20:34:04 [INFO] wechat_spider - ============================================================
+2026-06-27 20:34:04 [INFO] wechat_spider - 开始爬取公众号: 猫笔刀
+2026-06-27 20:34:04 [INFO] wechat_spider - ============================================================
+2026-06-27 20:34:04 [INFO] wechat_spider - 搜索公众号 [猫笔刀] 第 1 页文章...
+2026-06-27 20:34:05 [INFO] wechat_spider - 公众号 [猫笔刀] 获取到 10 篇文章
+2026-06-27 20:34:25 [INFO] wechat_spider - 公众号 [猫笔刀] 共获取 5 篇文章
+2026-06-27 20:34:25 [INFO] wechat_spider - 
+--- [1/5] 猫笔刀:王者归来! ---
+2026-06-27 20:34:29 [INFO] wechat_spider - 抓取文章: https://mp.weixin.qq.com/s?src=11&timestamp=1782563644&ver=6808&signature=7oH5l8b1oqM0y4d2JRkCS60jrlFtsqZm2-WpyxStHqI-ouvrajYko1QPqtPqq-qNLelnURYaiGzkTgx*jkCwSfDDHdAk2E65-JFJO4ijqpzNRpKqa6gZaudTfFC8Gz0Z&new=1
+2026-06-27 20:34:30 [INFO] wechat_spider - 文章解析完成: 
+2026-06-27 20:34:33 [WARNING] wechat_spider - 文章未开启评论或无法获取 comment_id，跳过评论抓取
+2026-06-27 20:34:33 [INFO] wechat_spider - 文章JSON已保存: C:\Users\zyf\WorkBuddy\2026-06-27-20-17-06\wechat_spider\data\猫笔刀__20260627_203433.json
+2026-06-27 20:34:35 [INFO] wechat_spider - 
+--- [2/5] 猫笔刀和越姐对我的影响 ---
+2026-06-27 20:34:38 [INFO] wechat_spider - 抓取文章: https://mp.weixin.qq.com/s?src=11&timestamp=1782563644&ver=6808&signature=KL5Gb-gpPe-3P2EvcYZ9f2cX1AWlkUC*IK3KeFuHt8t4-XD9J6DuHDTSawNnOpMEZ4nfBeS3di4HGr*Q8o2X2Crt-HRCzy0-ql-Z7InBYK2kT7gj*KVUJ4IIpSIpZA0J&new=1
+2026-06-27 20:34:38 [INFO] wechat_spider - 文章解析完成: 
+2026-06-27 20:34:42 [WARNING] wechat_spider - 文章未开启评论或无法获取 comment_id，跳过评论抓取
+2026-06-27 20:34:42 [INFO] wechat_spider - 文章JSON已保存: C:\Users\zyf\WorkBuddy\2026-06-27-20-17-06\wechat_spider\data\猫笔刀__20260627_203442.json
+2026-06-27 20:34:46 [INFO] wechat_spider - 
+--- [3/5] 猫笔刀:新的开始! ---
+2026-06-27 20:34:49 [INFO] wechat_spider - 抓取文章: https://mp.weixin.qq.com/s?src=11&timestamp=1782563644&ver=6808&signature=pgy9RnpoETPD0Ne3NraMV4xia810clZ0lz-RggknSqwPc0xC1s*rr59aatAJhDLAFEd1tnaL7G7C2PmAk*ShLXpUN1RAUiQtw0TNU4**qFnttI*YmEuYdTsnj3afz*et&new=1
+2026-06-27 20:34:50 [INFO] wechat_spider - 文章解析完成: 
+2026-06-27 20:34:53 [WARNING] wechat_spider - 文章未开启评论或无法获取 comment_id，跳过评论抓取
+2026-06-27 20:34:53 [INFO] wechat_spider - 文章JSON已保存: C:\Users\zyf\WorkBuddy\2026-06-27-20-17-06\wechat_spider\data\猫笔刀__20260627_203453.json
+2026-06-27 20:34:57 [INFO] wechat_spider - 
+--- [4/5] 猫笔刀:下周重要机会! ---
+2026-06-27 20:34:59 [INFO] wechat_spider - 抓取文章: https://mp.weixin.qq.com/s?src=11&timestamp=1782563644&ver=6808&signature=7oH5l8b1oqM0y4d2JRkCS60jrlFtsqZm2-WpyxStHqJVPUeeZJ2HkgyJlGbVvLVq4D8sRBWYNfClfOjwjs2l7UbJneACG1fnS19z7eXYuG8Y2vJBw7LcUHTtGkHZ45Wo&new=1
+2026-06-27 20:35:00 [INFO] wechat_spider - 文章解析完成: 
+2026-06-27 20:35:02 [WARNING] wechat_spider - 文章未开启评论或无法获取 comment_id，跳过评论抓取
+2026-06-27 20:35:02 [INFO] wechat_spider - 文章JSON已保存: C:\Users\zyf\WorkBuddy\2026-06-27-20-17-06\wechat_spider\data\猫笔刀__20260627_203502.json
+2026-06-27 20:35:05 [INFO] wechat_spider - 
+--- [5/5] 猫笔刀预言 ---
+2026-06-27 20:35:10 [INFO] wechat_spider - 抓取文章: https://mp.weixin.qq.com/s?src=11&timestamp=1782563644&ver=6808&signature=sj6RcrJpVfWHC4Y5J50HoA2zbe1ucZpNB8NMzVm5l1RKl6kf4pqeiKrgcB0llyarYF4s3xeZ-7h417Piz*FYq1usyedMmkPe116pS7QEEta-8tPLRugk39iNTuoVz*73&new=1
+2026-06-27 20:35:10 [INFO] wechat_spider - 文章解析完成: 
+2026-06-27 20:35:12 [WARNING] wechat_spider - 文章未开启评论或无法获取 comment_id，跳过评论抓取
+2026-06-27 20:35:12 [INFO] wechat_spider - 文章JSON已保存: C:\Users\zyf\WorkBuddy\2026-06-27-20-17-06\wechat_spider\data\猫笔刀__20260627_203512.json
+2026-06-27 20:35:16 [INFO] wechat_spider - 公众号 [猫笔刀] 爬取完成: 5/5 篇成功
+2026-06-27 20:35:19 [INFO] wechat_spider - 批量数据已保存: C:\Users\zyf\WorkBuddy\2026-06-27-20-17-06\wechat_spider\data\wechat_articles_20260627_203519.json
+2026-06-27 20:35:19 [INFO] wechat_spider - 
+============================================================
+2026-06-27 20:35:19 [INFO] wechat_spider - 爬取完成！统计信息:
+2026-06-27 20:35:19 [INFO] wechat_spider -   爬取公众号数: 1
+2026-06-27 20:35:19 [INFO] wechat_spider -   发现文章数:   5
+2026-06-27 20:35:19 [INFO] wechat_spider -   成功解析数:   5
+2026-06-27 20:35:19 [INFO] wechat_spider -   获取评论数:   0
+2026-06-27 20:35:19 [INFO] wechat_spider -   错误次数:     0
+2026-06-27 20:35:19 [INFO] wechat_spider -   汇总文件:     C:\Users\zyf\WorkBuddy\2026-06-27-20-17-06\wechat_spider\data\wechat_articles_20260627_203519.json
+2026-06-27 20:35:19 [INFO] wechat_spider - ============================================================
+2026-06-27 20:40:14 [INFO] wechat_spider - ============================================================
+2026-06-27 20:40:14 [INFO] wechat_spider - 微信公众号爬虫启动（单次模式）
+2026-06-27 20:40:14 [INFO] wechat_spider - 时间: 2026-06-27T20:40:14.327038
+2026-06-27 20:40:14 [INFO] wechat_spider - ============================================================
+2026-06-27 20:40:14 [INFO] wechat_spider - 
+============================================================
+2026-06-27 20:40:14 [INFO] wechat_spider - 开始爬取公众号: 人民日报
+2026-06-27 20:40:14 [INFO] wechat_spider - ============================================================
+2026-06-27 20:40:14 [INFO] wechat_spider - 搜索公众号 [人民日报] 第 1 页文章...
+2026-06-27 20:40:14 [INFO] wechat_spider - 公众号 [人民日报] 获取到 9 篇文章
+2026-06-27 20:40:19 [INFO] wechat_spider - 公众号 [人民日报] 共获取 1 篇文章
+2026-06-27 20:40:19 [INFO] wechat_spider - 
+--- [1/1] 停车61分钟按2小时计费,人民日报:一些城市管理者将停车问题念成了“生意经”,停 ---
+2026-06-27 20:40:21 [INFO] wechat_spider - 抓取文章: https://mp.weixin.qq.com/s?src=11&timestamp=1782564014&ver=6808&signature=RxDBagPP0dHEuxS7W4uZdXsRPler9WlXkT8u8Na7gL2BSfueUXc69xmg5eTno8075U0hnsjSd3uqc5W6E9u*D4q2eC5J*dhsY3*j*o7ABXRLwI4HPZX5GGIojqC33cSQ&new=1
+2026-06-27 20:40:22 [INFO] wechat_spider - 文章解析完成: 停车61分钟按2小时计费，人民日报：一些城市管理者将停车问题念成了“生意经”，停车计费就该是本“分秒必争”的明白账
+2026-06-27 20:40:22 [INFO] wechat_spider - 文章JSON已保存: article_35293243c933ca53.json
+2026-06-27 20:40:22 [INFO] wechat_spider - 公众号 [人民日报] 处理完成: 新增 1 篇, 跳过 0 篇
+2026-06-27 20:40:25 [INFO] wechat_spider - 批量数据已保存: C:\Users\zyf\WorkBuddy\2026-06-27-20-17-06\wechat_spider\data\wechat_articles_20260627_204025.json
+2026-06-27 20:40:25 [INFO] wechat_spider - 
+============================================================
+2026-06-27 20:40:25 [INFO] wechat_spider - 爬取统计:
+2026-06-27 20:40:25 [INFO] wechat_spider -   爬取公众号数: 1
+2026-06-27 20:40:25 [INFO] wechat_spider -   发现文章数:   1
+2026-06-27 20:40:25 [INFO] wechat_spider -   新增文章数:   1
+2026-06-27 20:40:25 [INFO] wechat_spider -   跳过文章数:   0
+2026-06-27 20:40:25 [INFO] wechat_spider -   成功解析数:   1
+2026-06-27 20:40:25 [INFO] wechat_spider -   总评论数:     0
+2026-06-27 20:40:25 [INFO] wechat_spider -   新增评论数:   0
+2026-06-27 20:40:25 [INFO] wechat_spider -   错误次数:     0
+2026-06-27 20:40:25 [INFO] wechat_spider -   历史总文章:   1
+2026-06-27 20:40:25 [INFO] wechat_spider -   汇总文件:     C:\Users\zyf\WorkBuddy\2026-06-27-20-17-06\wechat_spider\data\wechat_articles_20260627_204025.json
+2026-06-27 20:40:25 [INFO] wechat_spider - ============================================================
+2026-06-27 20:40:35 [INFO] wechat_spider - 已加载爬虫状态: 1 篇文章记录
+2026-06-27 20:40:35 [INFO] wechat_spider - ============================================================
+2026-06-27 20:40:35 [INFO] wechat_spider - 微信公众号爬虫启动（单次模式）
+2026-06-27 20:40:35 [INFO] wechat_spider - 时间: 2026-06-27T20:40:35.891860
+2026-06-27 20:40:35 [INFO] wechat_spider - ============================================================
+2026-06-27 20:40:35 [INFO] wechat_spider - 
+============================================================
+2026-06-27 20:40:35 [INFO] wechat_spider - 开始爬取公众号: 人民日报
+2026-06-27 20:40:35 [INFO] wechat_spider - ============================================================
+2026-06-27 20:40:35 [INFO] wechat_spider - 搜索公众号 [人民日报] 第 1 页文章...
+2026-06-27 20:40:36 [INFO] wechat_spider - 公众号 [人民日报] 获取到 9 篇文章
+2026-06-27 20:40:42 [INFO] wechat_spider - 公众号 [人民日报] 共获取 1 篇文章
+2026-06-27 20:40:42 [INFO] wechat_spider - 
+--- [1/1] 停车61分钟按2小时计费,人民日报:一些城市管理者将停车问题念成了“生意经”,停 ---
+2026-06-27 20:40:44 [INFO] wechat_spider - 抓取文章: https://mp.weixin.qq.com/s?src=11&timestamp=1782564035&ver=6808&signature=RxDBagPP0dHEuxS7W4uZdXsRPler9WlXkT8u8Na7gL2BSfueUXc69xmg5eTno807Ch7BVF9*ohi6YJxlzA6s8JaOqX2R5P8zaRyX6wqBIMTMY-fP4DMz4ABHDv1V19-A&new=1
+2026-06-27 20:40:45 [INFO] wechat_spider - 文章解析完成: 停车61分钟按2小时计费，人民日报：一些城市管理者将停车问题念成了“生意经”，停车计费就该是本“分秒必争”的明白账
+2026-06-27 20:40:45 [INFO] wechat_spider - 文章JSON已保存: article_783d9b800f17d866.json
+2026-06-27 20:40:45 [INFO] wechat_spider - 公众号 [人民日报] 处理完成: 新增 1 篇, 跳过 0 篇
+2026-06-27 20:40:48 [INFO] wechat_spider - 批量数据已保存: C:\Users\zyf\WorkBuddy\2026-06-27-20-17-06\wechat_spider\data\wechat_articles_20260627_204048.json
+2026-06-27 20:40:48 [INFO] wechat_spider - 
+============================================================
+2026-06-27 20:40:48 [INFO] wechat_spider - 爬取统计:
+2026-06-27 20:40:48 [INFO] wechat_spider -   爬取公众号数: 1
+2026-06-27 20:40:48 [INFO] wechat_spider -   发现文章数:   1
+2026-06-27 20:40:48 [INFO] wechat_spider -   新增文章数:   1
+2026-06-27 20:40:48 [INFO] wechat_spider -   跳过文章数:   0
+2026-06-27 20:40:48 [INFO] wechat_spider -   成功解析数:   1
+2026-06-27 20:40:48 [INFO] wechat_spider -   总评论数:     0
+2026-06-27 20:40:48 [INFO] wechat_spider -   新增评论数:   0
+2026-06-27 20:40:48 [INFO] wechat_spider -   错误次数:     0
+2026-06-27 20:40:48 [INFO] wechat_spider -   历史总文章:   2
+2026-06-27 20:40:48 [INFO] wechat_spider -   汇总文件:     C:\Users\zyf\WorkBuddy\2026-06-27-20-17-06\wechat_spider\data\wechat_articles_20260627_204048.json
+2026-06-27 20:40:48 [INFO] wechat_spider - ============================================================
+2026-06-27 20:40:56 [INFO] wechat_spider - 已加载爬虫状态: 2 篇文章记录
+2026-06-27 20:40:56 [INFO] wechat_spider - ============================================================
+2026-06-27 20:40:56 [INFO] wechat_spider - 微信公众号爬虫启动（单次模式）
+2026-06-27 20:40:56 [INFO] wechat_spider - 时间: 2026-06-27T20:40:56.869035
+2026-06-27 20:40:56 [INFO] wechat_spider - ============================================================
+2026-06-27 20:40:56 [INFO] wechat_spider - 
+============================================================
+2026-06-27 20:40:56 [INFO] wechat_spider - 开始爬取公众号: 人民日报
+2026-06-27 20:40:56 [INFO] wechat_spider - ============================================================
+2026-06-27 20:40:56 [INFO] wechat_spider - 搜索公众号 [人民日报] 第 1 页文章...
+2026-06-27 20:40:56 [INFO] wechat_spider - 公众号 [人民日报] 获取到 9 篇文章
+2026-06-27 20:40:57 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 20:41:03 [INFO] wechat_spider - 公众号 [人民日报] 共获取 1 篇文章
+2026-06-27 20:41:03 [INFO] wechat_spider - 
+--- [1/1] 人民日报警告:请告诉你的孩子,人生这条路上,不会有人一直催着你、管着你、叫你起床 ---
+2026-06-27 20:41:05 [INFO] wechat_spider - 抓取文章: https://mp.weixin.qq.com/s?src=11&timestamp=1782564056&ver=6808&signature=mYlwNK7X0yqWOX8R3WAD0Lc94NmB3phQt7vIauX6SbOMHqTOs5aYS7d9bl7iEEmsc*oPpXymVrAp5I9*WojrN81p66*H2rL8j0mbxuAUyg9EOl-c7TGgdexaCzuh1QxL&new=1
+2026-06-27 20:41:06 [INFO] wechat_spider - 文章解析完成: 人民日报警告：请告诉你的孩子，人生这条路上，不会有人一直催着你、管着你、叫你起床、看你写作业…
+2026-06-27 20:41:06 [INFO] wechat_spider - 文章JSON已保存: article_6bfe277d5721667d.json
+2026-06-27 20:41:06 [INFO] wechat_spider - 公众号 [人民日报] 处理完成: 新增 1 篇, 跳过 0 篇
+2026-06-27 20:41:09 [INFO] wechat_spider - 批量数据已保存: C:\Users\zyf\WorkBuddy\2026-06-27-20-17-06\wechat_spider\data\wechat_articles_20260627_204109.json
+2026-06-27 20:41:09 [INFO] wechat_spider - 
+============================================================
+2026-06-27 20:41:09 [INFO] wechat_spider - 爬取统计:
+2026-06-27 20:41:09 [INFO] wechat_spider -   爬取公众号数: 1
+2026-06-27 20:41:09 [INFO] wechat_spider -   发现文章数:   1
+2026-06-27 20:41:09 [INFO] wechat_spider -   新增文章数:   1
+2026-06-27 20:41:09 [INFO] wechat_spider -   跳过文章数:   0
+2026-06-27 20:41:09 [INFO] wechat_spider -   成功解析数:   1
+2026-06-27 20:41:09 [INFO] wechat_spider -   总评论数:     0
+2026-06-27 20:41:09 [INFO] wechat_spider -   新增评论数:   0
+2026-06-27 20:41:09 [INFO] wechat_spider -   错误次数:     0
+2026-06-27 20:41:09 [INFO] wechat_spider -   历史总文章:   3
+2026-06-27 20:41:09 [INFO] wechat_spider -   汇总文件:     C:\Users\zyf\WorkBuddy\2026-06-27-20-17-06\wechat_spider\data\wechat_articles_20260627_204109.json
+2026-06-27 20:41:09 [INFO] wechat_spider - ============================================================
+2026-06-27 20:45:55 [WARNING] wechat_spider - 检测到旧版状态文件(v1)，将重新初始化
+2026-06-27 20:45:55 [INFO] wechat_spider - ============================================================
+2026-06-27 20:45:55 [INFO] wechat_spider - 微信公众号爬虫启动（单次模式）
+2026-06-27 20:45:55 [INFO] wechat_spider - 时间: 2026-06-27T20:45:55.162799
+2026-06-27 20:45:55 [INFO] wechat_spider - ============================================================
+2026-06-27 20:45:55 [INFO] wechat_spider - 
+============================================================
+2026-06-27 20:45:55 [INFO] wechat_spider - 开始爬取公众号: 人民日报
+2026-06-27 20:45:55 [INFO] wechat_spider - ============================================================
+2026-06-27 20:45:55 [INFO] wechat_spider - 搜索公众号 [人民日报] 第 1 页文章...
+2026-06-27 20:45:55 [INFO] wechat_spider - 公众号 [人民日报] 获取到 9 篇文章
+2026-06-27 20:46:02 [INFO] wechat_spider - 公众号 [人民日报] 共获取 1 篇文章
+2026-06-27 20:46:02 [INFO] wechat_spider - 
+--- [1/1] 停车61分钟按2小时计费,人民日报:一些城市管理者将停车问题念成了“生意经”,停 ---
+2026-06-27 20:46:06 [INFO] wechat_spider - 抓取文章: https://mp.weixin.qq.com/s?src=11&timestamp=1782564354&ver=6808&signature=RxDBagPP0dHEuxS7W4uZdXsRPler9WlXkT8u8Na7gL2BSfueUXc69xmg5eTno807*e0*xgLIAHQ4BdP1NvJrZm6sWHGN5wnMoQQzUoxmImxx3S1S9YbxJkSalde512sw&new=1
+2026-06-27 20:46:07 [INFO] wechat_spider - 文章解析完成: 停车61分钟按2小时计费，人民日报：一些城市管理者将停车问题念成了“生意经”，停车计费就该是本“分秒必争”的明白账 [id=2653335604_2]
+2026-06-27 20:46:07 [INFO] wechat_spider - ✚ 新文章，完整保存...
+2026-06-27 20:46:07 [INFO] wechat_spider - 文章JSON已保存: article_a7e57881717711df.json
+2026-06-27 20:46:07 [INFO] wechat_spider - 公众号 [人民日报] 处理完成: 新增 1 篇, 跳过 0 篇
+2026-06-27 20:46:09 [INFO] wechat_spider - 批量数据已保存: C:\Users\zyf\WorkBuddy\2026-06-27-20-17-06\wechat_spider\data\wechat_articles_20260627_204609.json
+2026-06-27 20:46:09 [INFO] wechat_spider - 
+============================================================
+2026-06-27 20:46:09 [INFO] wechat_spider - 爬取统计:
+2026-06-27 20:46:09 [INFO] wechat_spider -   爬取公众号数: 1
+2026-06-27 20:46:09 [INFO] wechat_spider -   发现文章数:   1
+2026-06-27 20:46:09 [INFO] wechat_spider -   新增文章数:   1
+2026-06-27 20:46:09 [INFO] wechat_spider -   跳过文章数:   0
+2026-06-27 20:46:09 [INFO] wechat_spider -   成功解析数:   1
+2026-06-27 20:46:09 [INFO] wechat_spider -   总评论数:     0
+2026-06-27 20:46:09 [INFO] wechat_spider -   新增评论数:   0
+2026-06-27 20:46:09 [INFO] wechat_spider -   错误次数:     0
+2026-06-27 20:46:09 [INFO] wechat_spider -   历史总文章:   1
+2026-06-27 20:46:09 [INFO] wechat_spider -   汇总文件:     C:\Users\zyf\WorkBuddy\2026-06-27-20-17-06\wechat_spider\data\wechat_articles_20260627_204609.json
+2026-06-27 20:46:09 [INFO] wechat_spider - ============================================================
+2026-06-27 20:46:28 [INFO] wechat_spider - 已加载爬虫状态: 1 篇文章记录
+2026-06-27 20:46:28 [INFO] wechat_spider - ============================================================
+2026-06-27 20:46:28 [INFO] wechat_spider - 微信公众号爬虫启动（单次模式）
+2026-06-27 20:46:28 [INFO] wechat_spider - 时间: 2026-06-27T20:46:28.620303
+2026-06-27 20:46:28 [INFO] wechat_spider - ============================================================
+2026-06-27 20:46:28 [INFO] wechat_spider - 
+============================================================
+2026-06-27 20:46:28 [INFO] wechat_spider - 开始爬取公众号: 人民日报
+2026-06-27 20:46:28 [INFO] wechat_spider - ============================================================
+2026-06-27 20:46:28 [INFO] wechat_spider - 搜索公众号 [人民日报] 第 1 页文章...
+2026-06-27 20:46:28 [WARNING] wechat_spider - 搜狗触发反爬验证，请手动访问 weixin.sogou.com 完成验证，或更新 config.SOGOU_COOKIE
+2026-06-27 20:46:28 [INFO] wechat_spider - 公众号 [人民日报] 共获取 0 篇文章
+2026-06-27 20:46:28 [WARNING] wechat_spider - 公众号 [人民日报] 未获取到文章
+2026-06-27 20:46:32 [INFO] wechat_spider - 
+============================================================
+2026-06-27 20:46:32 [INFO] wechat_spider - 爬取统计:
+2026-06-27 20:46:32 [INFO] wechat_spider -   爬取公众号数: 1
+2026-06-27 20:46:32 [INFO] wechat_spider -   发现文章数:   0
+2026-06-27 20:46:32 [INFO] wechat_spider -   新增文章数:   0
+2026-06-27 20:46:32 [INFO] wechat_spider -   跳过文章数:   0
+2026-06-27 20:46:32 [INFO] wechat_spider -   成功解析数:   0
+2026-06-27 20:46:32 [INFO] wechat_spider -   总评论数:     0
+2026-06-27 20:46:32 [INFO] wechat_spider -   新增评论数:   0
+2026-06-27 20:46:32 [INFO] wechat_spider -   错误次数:     0
+2026-06-27 20:46:32 [INFO] wechat_spider -   历史总文章:   1
+2026-06-27 20:46:32 [INFO] wechat_spider - ============================================================
+2026-06-27 20:51:52 [INFO] wechat_spider - 文章JSON已保存: article_40df718f707778bf.json
+2026-06-27 20:51:52 [INFO] wechat_spider - 文章Markdown已保存: article_40df718f707778bf.md
+2026-06-27 20:51:52 [INFO] wechat_spider - 文章Markdown已保存: article_40df718f707778bf.md
+2026-06-27 20:51:52 [INFO] wechat_spider - 评论合并完成 [测试文章：评论增量更新+删除标记测试]: 新增 1, 更新 1, 删除标记 1, 总计 4
+2026-06-27 20:52:19 [INFO] wechat_spider - 文章JSON已保存: article_40df718f707778bf.json
+2026-06-27 20:52:19 [INFO] wechat_spider - 文章Markdown已保存: article_40df718f707778bf.md
+2026-06-27 20:52:19 [INFO] wechat_spider - 文章JSON已保存: article_20eef481a6011e83.json
+2026-06-27 20:52:19 [INFO] wechat_spider - 文章Markdown已保存: article_20eef481a6011e83.md
+2026-06-27 20:52:19 [INFO] wechat_spider - 文章JSON已保存: article_74f46fc3345bd23a.json
+2026-06-27 20:52:19 [INFO] wechat_spider - 文章Markdown已保存: article_74f46fc3345bd23a.md
+2026-06-27 20:52:19 [INFO] wechat_spider - 已删除文件: article_40df718f707778bf.json
+2026-06-27 20:52:19 [INFO] wechat_spider - 已删除文件: article_40df718f707778bf.md
+2026-06-27 20:55:43 [INFO] wechat_spider - 文章JSON已保存: article_682a278ca06edd1a.json
+2026-06-27 20:55:43 [INFO] wechat_spider - 文章Markdown已保存: article_682a278ca06edd1a.md
+2026-06-27 20:55:43 [INFO] wechat_spider - 文章JSON已保存: article_c39107fe621ba240.json
+2026-06-27 20:55:43 [INFO] wechat_spider - 文章Markdown已保存: article_c39107fe621ba240.md
+2026-06-27 20:55:43 [INFO] wechat_spider - 文章JSON已保存: article_d668e0addfe18fe8.json
+2026-06-27 20:55:43 [INFO] wechat_spider - 文章Markdown已保存: article_d668e0addfe18fe8.md
+2026-06-27 20:55:43 [INFO] wechat_spider - 文章JSON已保存: article_40ebcfbeadcb06ff.json
+2026-06-27 20:55:43 [INFO] wechat_spider - 文章Markdown已保存: article_40ebcfbeadcb06ff.md
+2026-06-27 20:55:43 [INFO] wechat_spider - 文章JSON已保存: article_078dc1e786f23f3f.json
+2026-06-27 20:55:43 [INFO] wechat_spider - 文章Markdown已保存: article_078dc1e786f23f3f.md
+2026-06-27 20:55:43 [INFO] wechat_spider - 文章Markdown已保存: article_682a278ca06edd1a.md
+2026-06-27 20:55:43 [INFO] wechat_spider - 评论合并完成 [第1篇文章]: 新增 1, 更新 1, 删除标记 0, 总计 2
+2026-06-27 20:55:43 [INFO] wechat_spider - 文章Markdown已保存: article_c39107fe621ba240.md
+2026-06-27 20:55:43 [INFO] wechat_spider - 评论合并完成 [第2篇文章]: 新增 1, 更新 1, 删除标记 0, 总计 2
+2026-06-27 21:01:25 [INFO] wechat_spider - 文章JSON已保存: 2026-06-27_停车61分钟按2小时计费.json
+2026-06-27 21:01:25 [INFO] wechat_spider - 文章Markdown已保存: 2026-06-27_停车61分钟按2小时计费.md
+2026-06-27 21:01:25 [INFO] wechat_spider - 文章Markdown已保存: 2026-06-27_停车61分钟按2小时计费.md
+2026-06-27 21:01:25 [INFO] wechat_spider - 评论合并完成 [停车61分钟按2小时计费]: 新增 1, 更新 1, 删除标记 0, 总计 2
+2026-06-27 21:03:01 [INFO] wechat_spider - ============================================================
+2026-06-27 21:03:01 [INFO] wechat_spider - 微信公众号爬虫启动（单次模式）
+2026-06-27 21:03:01 [INFO] wechat_spider - 时间: 2026-06-27T21:03:01.702223
+2026-06-27 21:03:01 [INFO] wechat_spider - ============================================================
+2026-06-27 21:03:01 [INFO] wechat_spider - 
+============================================================
+2026-06-27 21:03:01 [INFO] wechat_spider - 开始爬取公众号: 猫笔刀
+2026-06-27 21:03:01 [INFO] wechat_spider - ============================================================
+2026-06-27 21:03:01 [INFO] wechat_spider - 搜索公众号 [猫笔刀] 第 1 页文章...
+2026-06-27 21:03:01 [WARNING] wechat_spider - 搜狗触发反爬验证，请手动访问 weixin.sogou.com 完成验证，或更新 config.SOGOU_COOKIE
+2026-06-27 21:03:01 [INFO] wechat_spider - 公众号 [猫笔刀] 共获取 0 篇文章
+2026-06-27 21:03:01 [WARNING] wechat_spider - 公众号 [猫笔刀] 未获取到文章
+2026-06-27 21:03:05 [INFO] wechat_spider - 
+============================================================
+2026-06-27 21:03:05 [INFO] wechat_spider - 开始爬取公众号: 越女事务所
+2026-06-27 21:03:05 [INFO] wechat_spider - ============================================================
+2026-06-27 21:03:05 [INFO] wechat_spider - 搜索公众号 [越女事务所] 第 1 页文章...
+2026-06-27 21:03:06 [INFO] wechat_spider - 公众号 [越女事务所] 获取到 10 篇文章
+2026-06-27 21:03:09 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:03:11 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:03:11 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:03:11 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:03:12 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:03:12 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:03:12 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:03:12 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:03:14 [INFO] wechat_spider - 搜索公众号 [越女事务所] 第 2 页文章...
+2026-06-27 21:03:14 [WARNING] wechat_spider - 搜狗触发反爬验证，请手动访问 weixin.sogou.com 完成验证，或更新 config.SOGOU_COOKIE
+2026-06-27 21:03:14 [INFO] wechat_spider - 公众号 [越女事务所] 共获取 2 篇文章
+2026-06-27 21:03:14 [INFO] wechat_spider - 
+--- [1/2] [越女事务所]文章阅读导航 ---
+2026-06-27 21:03:17 [INFO] wechat_spider - 抓取文章: https://mp.weixin.qq.com/s?src=11&timestamp=1782565385&ver=6808&signature=-ZyoBWTCYBTYLzz2JwYvjolZq4vLPiQF5jafcd6J74voSelL6Ue60Xc9S2HK6E5Db5NvRlaFxNNU9K0wgkepyOimwin2UuMFtuJgNu12pU3x-YWcL2ikTvJ*eHR6Vm9U&new=1
+2026-06-27 21:03:18 [INFO] wechat_spider - 文章解析完成: [越女事务所]文章阅读导航 [id=2247491401_1]
+2026-06-27 21:03:18 [INFO] wechat_spider - ✚ 新文章，完整保存...
+2026-06-27 21:03:21 [INFO] wechat_spider - 获取评论，comment_id=4559562191875719168
+2026-06-27 21:03:21 [WARNING] wechat_spider - 评论API触发微信验证，无法获取评论。解决方法：在config.WECHAT_COOKIE中配置有效的微信cookie，或通过微信客户端抓包获取key参数填入config
+2026-06-27 21:03:21 [INFO] wechat_spider - 文章JSON已保存: 2026-06-13_[越女事务所]文章阅读导航.json
+2026-06-27 21:03:21 [INFO] wechat_spider - 文章Markdown已保存: 2026-06-13_[越女事务所]文章阅读导航.md
+2026-06-27 21:03:21 [INFO] wechat_spider - 
+--- [2/2] 案例拆解之 “越女事务所” ---
+2026-06-27 21:03:26 [INFO] wechat_spider - 抓取文章: https://mp.weixin.qq.com/s?src=11&timestamp=1782565385&ver=6808&signature=uvnaH5rgPr9X5a0mFe6erl*sfR-*7I0oMLnNdRLu2*9oLWxipD-8fr-MYRNKqIXtz00iQoA3YURbJwSjLg5guvqasTCWyk5ZilE9-wV972ZSmivHOT8qv0lNP7o4Vq1o&new=1
+2026-06-27 21:03:26 [INFO] wechat_spider - 文章解析完成: 案例拆解之 “越女事务所” [id=2247486596_1]
+2026-06-27 21:03:26 [INFO] wechat_spider - ✚ 新文章，完整保存...
+2026-06-27 21:03:29 [INFO] wechat_spider - 获取评论，comment_id=0
+2026-06-27 21:03:29 [WARNING] wechat_spider - 评论API触发微信验证，无法获取评论。解决方法：在config.WECHAT_COOKIE中配置有效的微信cookie，或通过微信客户端抓包获取key参数填入config
+2026-06-27 21:03:29 [INFO] wechat_spider - 文章JSON已保存: 2022-03-21_案例拆解之 “越女事务所”.json
+2026-06-27 21:03:29 [INFO] wechat_spider - 文章Markdown已保存: 2022-03-21_案例拆解之 “越女事务所”.md
+2026-06-27 21:03:29 [INFO] wechat_spider - 公众号 [越女事务所] 处理完成: 新增 2 篇, 评论更新 0 篇, 保留 0 篇
+2026-06-27 21:03:33 [INFO] wechat_spider - 批量数据已保存: C:\Users\zyf\WorkBuddy\2026-06-27-20-17-06\wechat_spider\data\wechat_articles_20260627_210333.json
+2026-06-27 21:03:33 [INFO] wechat_spider - 
+============================================================
+2026-06-27 21:03:33 [INFO] wechat_spider - 爬取统计:
+2026-06-27 21:03:33 [INFO] wechat_spider -   爬取公众号数:   2
+2026-06-27 21:03:33 [INFO] wechat_spider -   发现文章数:     2
+2026-06-27 21:03:33 [INFO] wechat_spider -   新增文章数:     2
+2026-06-27 21:03:33 [INFO] wechat_spider -   评论更新文章:   0
+2026-06-27 21:03:33 [INFO] wechat_spider -   保留不更新文章: 0
+2026-06-27 21:03:33 [INFO] wechat_spider -   跳过文章数:     0
+2026-06-27 21:03:33 [INFO] wechat_spider -   成功解析数:     2
+2026-06-27 21:03:33 [INFO] wechat_spider -   总评论数:       0
+2026-06-27 21:03:33 [INFO] wechat_spider -   新增评论数:     0
+2026-06-27 21:03:33 [INFO] wechat_spider -   删除标记评论:   0
+2026-06-27 21:03:33 [INFO] wechat_spider -   错误次数:       0
+2026-06-27 21:03:33 [INFO] wechat_spider -   历史总文章:   2
+2026-06-27 21:03:33 [INFO] wechat_spider -   汇总文件:     C:\Users\zyf\WorkBuddy\2026-06-27-20-17-06\wechat_spider\data\wechat_articles_20260627_210333.json
+2026-06-27 21:03:33 [INFO] wechat_spider - ============================================================
+2026-06-27 21:04:57 [INFO] wechat_spider - ============================================================
+2026-06-27 21:04:57 [INFO] wechat_spider - 微信公众号爬虫启动（单次模式）
+2026-06-27 21:04:57 [INFO] wechat_spider - 时间: 2026-06-27T21:04:57.880389
+2026-06-27 21:04:57 [INFO] wechat_spider - ============================================================
+2026-06-27 21:04:57 [INFO] wechat_spider - 
+============================================================
+2026-06-27 21:04:57 [INFO] wechat_spider - 开始爬取公众号: 猫笔刀
+2026-06-27 21:04:57 [INFO] wechat_spider - ============================================================
+2026-06-27 21:04:57 [INFO] wechat_spider - 搜索公众号 [猫笔刀] 第 1 页文章...
+2026-06-27 21:04:58 [WARNING] wechat_spider - 搜狗触发反爬验证，请手动访问 weixin.sogou.com 完成验证，或更新 config.SOGOU_COOKIE
+2026-06-27 21:04:58 [INFO] wechat_spider - 公众号 [猫笔刀] 共获取 0 篇文章
+2026-06-27 21:04:58 [WARNING] wechat_spider - 公众号 [猫笔刀] 未获取到文章
+2026-06-27 21:06:49 [INFO] wechat_spider - 
+============================================================
+2026-06-27 21:06:49 [INFO] wechat_spider - 爬取统计:
+2026-06-27 21:06:49 [INFO] wechat_spider -   爬取公众号数:   1
+2026-06-27 21:06:49 [INFO] wechat_spider -   发现文章数:     0
+2026-06-27 21:06:49 [INFO] wechat_spider -   新增文章数:     0
+2026-06-27 21:06:49 [INFO] wechat_spider -   评论更新文章:   0
+2026-06-27 21:06:49 [INFO] wechat_spider -   保留不更新文章: 0
+2026-06-27 21:06:49 [INFO] wechat_spider -   跳过文章数:     0
+2026-06-27 21:06:49 [INFO] wechat_spider -   成功解析数:     0
+2026-06-27 21:06:49 [INFO] wechat_spider -   总评论数:       0
+2026-06-27 21:06:49 [INFO] wechat_spider -   新增评论数:     0
+2026-06-27 21:06:49 [INFO] wechat_spider -   删除标记评论:   0
+2026-06-27 21:06:49 [INFO] wechat_spider -   错误次数:       0
+2026-06-27 21:06:49 [INFO] wechat_spider -   历史总文章:   0
+2026-06-27 21:06:49 [INFO] wechat_spider - ============================================================
+2026-06-27 21:07:37 [INFO] wechat_spider - 抓取文章: https://mp.weixin.qq.com/s?src=11&timestamp=1782564014&ver=6808&signature=RxDBagPP0dHEuxS7W4uZdXsRPler9WlXkT8u8Na7gL2BSfueUXc69xmg5eTno8075U0hnsjSd3uqc5W6E9u*D4q2eC5J*dhsY3*j*o7ABXRLwI4HPZX5GGIojqC33cSQ&new=1
+2026-06-27 21:07:38 [INFO] wechat_spider - 文章解析完成: 停车61分钟按2小时计费，人民日报：一些城市管理者将停车问题念成了“生意经”，停车计费就该是本“分秒必争”的明白账 [id=2653335604_2]
+2026-06-27 21:07:38 [INFO] wechat_spider - 文章JSON已保存: 2026-06-27_停车61分钟按2小时计费，人民日报：一些城市管理者将停车问题念成了“生意经”，停.json
+2026-06-27 21:07:38 [INFO] wechat_spider - 文章Markdown已保存: 2026-06-27_停车61分钟按2小时计费，人民日报：一些城市管理者将停车问题念成了“生意经”，停.md
+2026-06-27 21:12:09 [WARNING] wechat_spider - 无法从任何浏览器提取 cookie (sogou.com)
+2026-06-27 21:12:18 [WARNING] wechat_spider - 无法从任何浏览器提取 cookie (qq.com)
+2026-06-27 21:12:26 [WARNING] wechat_spider - 无法从任何浏览器提取 cookie (sogou.com)
+2026-06-27 21:12:26 [WARNING] wechat_spider - 未获取到搜狗cookie，可能触发反爬验证
+2026-06-27 21:13:59 [INFO] wechat_spider - 尝试访问搜狗首页获取session cookie...
+2026-06-27 21:13:59 [INFO] wechat_spider - 从sogou.com首页获取到 2 个 session cookie
+2026-06-27 21:13:59 [INFO] wechat_spider - cookie已缓存(sogou)
+2026-06-27 21:14:08 [INFO] wechat_spider - 从qq.com首页获取到 1 个 session cookie
+2026-06-27 21:14:08 [INFO] wechat_spider - cookie已缓存(wechat)
+2026-06-27 21:14:16 [INFO] wechat_spider - 使用缓存的搜狗cookie
+2026-06-27 21:14:16 [INFO] wechat_spider - 搜狗 cookie 初始化成功
+2026-06-27 21:14:16 [INFO] wechat_spider - 搜索公众号 [猫笔刀] 第 1 页文章...
+2026-06-27 21:14:16 [WARNING] wechat_spider - 搜狗触发反爬验证，尝试刷新 cookie 后重试...
+2026-06-27 21:14:16 [INFO] wechat_spider - 尝试刷新搜狗 cookie...
+2026-06-27 21:14:25 [INFO] wechat_spider - 尝试访问搜狗首页获取session cookie...
+2026-06-27 21:14:25 [INFO] wechat_spider - 从sogou.com首页获取到 2 个 session cookie
+2026-06-27 21:14:25 [INFO] wechat_spider - cookie已缓存(sogou)
+2026-06-27 21:14:25 [INFO] wechat_spider - 搜狗 cookie 刷新成功
+2026-06-27 21:14:25 [WARNING] wechat_spider - search_articles 第 1/3 次尝试失败: random_delay() takes 0 positional arguments but 2 were given
+2026-06-27 21:14:28 [INFO] wechat_spider - 搜索公众号 [猫笔刀] 第 1 页文章...
+2026-06-27 21:14:28 [WARNING] wechat_spider - 搜狗触发反爬验证，尝试刷新 cookie 后重试...
+2026-06-27 21:14:28 [INFO] wechat_spider - 尝试刷新搜狗 cookie...
+2026-06-27 21:14:37 [INFO] wechat_spider - 尝试访问搜狗首页获取session cookie...
+2026-06-27 21:14:37 [INFO] wechat_spider - 从sogou.com首页获取到 2 个 session cookie
+2026-06-27 21:14:37 [INFO] wechat_spider - cookie已缓存(sogou)
+2026-06-27 21:14:37 [INFO] wechat_spider - 搜狗 cookie 刷新成功
+2026-06-27 21:14:37 [WARNING] wechat_spider - search_articles 第 2/3 次尝试失败: random_delay() takes 0 positional arguments but 2 were given
+2026-06-27 21:14:43 [INFO] wechat_spider - 搜索公众号 [猫笔刀] 第 1 页文章...
+2026-06-27 21:14:43 [INFO] wechat_spider - 公众号 [猫笔刀] 获取到 10 篇文章
+2026-06-27 21:15:21 [INFO] wechat_spider - 已清除缓存cookie(sogou)
+2026-06-27 21:15:21 [INFO] wechat_spider - 已清除缓存cookie(wechat)
+2026-06-27 21:15:30 [INFO] wechat_spider - 尝试访问搜狗首页获取session cookie...
+2026-06-27 21:15:30 [INFO] wechat_spider - 从sogou.com首页获取到 2 个 session cookie
+2026-06-27 21:15:30 [INFO] wechat_spider - cookie已缓存(sogou)
+2026-06-27 21:15:30 [INFO] wechat_spider - 搜狗 cookie 初始化成功
+2026-06-27 21:15:30 [INFO] wechat_spider - 搜索公众号 [猫笔刀] 第 1 页文章...
+2026-06-27 21:15:30 [WARNING] wechat_spider - 搜狗触发反爬验证，尝试刷新 cookie 后重试...
+2026-06-27 21:15:30 [INFO] wechat_spider - 尝试刷新搜狗 cookie...
+2026-06-27 21:15:39 [INFO] wechat_spider - 尝试访问搜狗首页获取session cookie...
+2026-06-27 21:15:39 [INFO] wechat_spider - 从sogou.com首页获取到 2 个 session cookie
+2026-06-27 21:15:39 [INFO] wechat_spider - cookie已缓存(sogou)
+2026-06-27 21:15:39 [INFO] wechat_spider - 搜狗 cookie 刷新成功
+2026-06-27 21:15:42 [ERROR] wechat_spider - 刷新 cookie 后仍被拦截。请手动操作：
+  1. 在浏览器中打开 https://weixin.sogou.com
+  2. 完成验证码验证
+  3. 运行: python main.py --input-cookie sogou
+  4. 粘贴浏览器中的 Cookie 值
+2026-06-27 21:16:09 [INFO] wechat_spider - 已清除缓存cookie(sogou)
+2026-06-27 21:16:21 [INFO] wechat_spider - 尝试访问搜狗首页获取session cookie...
+2026-06-27 21:16:21 [INFO] wechat_spider - 从sogou.com首页获取到 2 个 session cookie
+2026-06-27 21:16:21 [INFO] wechat_spider - cookie已缓存(sogou)
+2026-06-27 21:16:21 [INFO] wechat_spider - 搜狗 cookie 初始化成功
+2026-06-27 21:16:21 [INFO] wechat_spider - 搜索公众号 [猫笔刀] 第 1 页文章...
+2026-06-27 21:16:21 [INFO] wechat_spider - 公众号 [猫笔刀] 获取到 10 篇文章
+2026-06-27 21:17:20 [INFO] wechat_spider - 使用缓存的搜狗cookie
+2026-06-27 21:17:20 [INFO] wechat_spider - 搜狗 cookie 初始化成功
+2026-06-27 21:17:29 [INFO] wechat_spider - 从qq.com首页获取到 1 个 session cookie
+2026-06-27 21:17:29 [INFO] wechat_spider - cookie已缓存(wechat)
+2026-06-27 21:17:29 [INFO] wechat_spider - 使用缓存的微信cookie
+2026-06-27 21:17:29 [INFO] wechat_spider - 已加载爬虫状态: 0 篇文章记录
+2026-06-27 21:17:29 [INFO] wechat_spider - ============================================================
+2026-06-27 21:17:29 [INFO] wechat_spider - 微信公众号爬虫启动（单次模式）
+2026-06-27 21:17:29 [INFO] wechat_spider - 时间: 2026-06-27T21:17:29.847512
+2026-06-27 21:17:29 [INFO] wechat_spider - ============================================================
+2026-06-27 21:17:29 [INFO] wechat_spider - 
+============================================================
+2026-06-27 21:17:29 [INFO] wechat_spider - 开始爬取公众号: 猫笔刀
+2026-06-27 21:17:29 [INFO] wechat_spider - ============================================================
+2026-06-27 21:17:29 [INFO] wechat_spider - 搜索公众号 [猫笔刀] 第 1 页文章...
+2026-06-27 21:17:29 [INFO] wechat_spider - 公众号 [猫笔刀] 获取到 10 篇文章
+2026-06-27 21:17:30 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:17:30 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:17:30 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:17:30 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:17:30 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:17:30 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:17:30 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:17:30 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:17:30 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:17:30 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:18:02 [INFO] wechat_spider - 使用缓存的搜狗cookie
+2026-06-27 21:18:02 [INFO] wechat_spider - 搜狗 cookie 初始化成功
+2026-06-27 21:18:02 [INFO] wechat_spider - 使用缓存的微信cookie
+2026-06-27 21:18:02 [INFO] wechat_spider - 使用缓存的微信cookie
+2026-06-27 21:18:02 [INFO] wechat_spider - 已加载爬虫状态: 0 篇文章记录
+2026-06-27 21:18:02 [INFO] wechat_spider - ============================================================
+2026-06-27 21:18:02 [INFO] wechat_spider - 微信公众号爬虫启动（单次模式）
+2026-06-27 21:18:02 [INFO] wechat_spider - 时间: 2026-06-27T21:18:02.205339
+2026-06-27 21:18:02 [INFO] wechat_spider - ============================================================
+2026-06-27 21:18:02 [INFO] wechat_spider - 
+============================================================
+2026-06-27 21:18:02 [INFO] wechat_spider - 开始爬取公众号: 日民日报
+2026-06-27 21:18:02 [INFO] wechat_spider - ============================================================
+2026-06-27 21:18:02 [INFO] wechat_spider - 搜索公众号 [日民日报] 第 1 页文章...
+2026-06-27 21:18:02 [WARNING] wechat_spider - 搜狗触发反爬验证，尝试刷新 cookie 后重试...
+2026-06-27 21:18:02 [INFO] wechat_spider - 尝试刷新搜狗 cookie...
+2026-06-27 21:18:11 [INFO] wechat_spider - 尝试访问搜狗首页获取session cookie...
+2026-06-27 21:18:11 [INFO] wechat_spider - 从sogou.com首页获取到 2 个 session cookie
+2026-06-27 21:18:11 [INFO] wechat_spider - cookie已缓存(sogou)
+2026-06-27 21:18:11 [INFO] wechat_spider - 搜狗 cookie 刷新成功
+2026-06-27 21:18:15 [INFO] wechat_spider - 公众号 [日民日报] 获取到 10 篇文章
+2026-06-27 21:18:15 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:18:15 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:18:15 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:18:15 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:18:15 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:18:15 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:18:15 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:18:16 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:18:16 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:18:16 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:18:53 [INFO] wechat_spider - 使用缓存的搜狗cookie
+2026-06-27 21:18:53 [INFO] wechat_spider - 搜狗 cookie 初始化成功
+2026-06-27 21:18:53 [INFO] wechat_spider - 使用缓存的微信cookie
+2026-06-27 21:18:53 [INFO] wechat_spider - 使用缓存的微信cookie
+2026-06-27 21:18:53 [INFO] wechat_spider - 已加载爬虫状态: 0 篇文章记录
+2026-06-27 21:18:53 [INFO] wechat_spider - ============================================================
+2026-06-27 21:18:53 [INFO] wechat_spider - 微信公众号爬虫启动（单次模式）
+2026-06-27 21:18:53 [INFO] wechat_spider - 时间: 2026-06-27T21:18:53.047491
+2026-06-27 21:18:53 [INFO] wechat_spider - ============================================================
+2026-06-27 21:18:53 [INFO] wechat_spider - 
+============================================================
+2026-06-27 21:18:53 [INFO] wechat_spider - 开始爬取公众号: 日民日报
+2026-06-27 21:18:53 [INFO] wechat_spider - ============================================================
+2026-06-27 21:18:53 [INFO] wechat_spider - 搜索公众号 [日民日报] 第 1 页文章...
+2026-06-27 21:18:53 [WARNING] wechat_spider - 搜狗触发反爬验证，尝试刷新 cookie 后重试...
+2026-06-27 21:18:53 [INFO] wechat_spider - 尝试刷新搜狗 cookie...
+2026-06-27 21:19:45 [INFO] wechat_spider - 尝试访问搜狗首页获取session cookie...
+2026-06-27 21:19:45 [INFO] wechat_spider - 从sogou.com首页获取到 2 个 session cookie
+2026-06-27 21:19:45 [INFO] wechat_spider - cookie已缓存(sogou)
+2026-06-27 21:19:45 [INFO] wechat_spider - 搜狗 cookie 初始化成功
+2026-06-27 21:19:45 [INFO] wechat_spider - 使用缓存的微信cookie
+2026-06-27 21:19:45 [INFO] wechat_spider - 使用缓存的微信cookie
+2026-06-27 21:19:45 [INFO] wechat_spider - 已加载爬虫状态: 0 篇文章记录
+2026-06-27 21:19:45 [INFO] wechat_spider - ============================================================
+2026-06-27 21:19:45 [INFO] wechat_spider - 微信公众号爬虫启动（单次模式）
+2026-06-27 21:19:45 [INFO] wechat_spider - 时间: 2026-06-27T21:19:45.869326
+2026-06-27 21:19:45 [INFO] wechat_spider - ============================================================
+2026-06-27 21:19:45 [INFO] wechat_spider - 
+============================================================
+2026-06-27 21:19:45 [INFO] wechat_spider - 开始爬取公众号: 人民日报
+2026-06-27 21:19:45 [INFO] wechat_spider - ============================================================
+2026-06-27 21:19:45 [INFO] wechat_spider - 搜索公众号 [人民日报] 第 1 页文章...
+2026-06-27 21:19:46 [WARNING] wechat_spider - 搜狗触发反爬验证，尝试刷新 cookie 后重试...
+2026-06-27 21:19:46 [INFO] wechat_spider - 尝试刷新搜狗 cookie...
+2026-06-27 21:19:54 [INFO] wechat_spider - 尝试访问搜狗首页获取session cookie...
+2026-06-27 21:19:54 [INFO] wechat_spider - 从sogou.com首页获取到 2 个 session cookie
+2026-06-27 21:19:54 [INFO] wechat_spider - cookie已缓存(sogou)
+2026-06-27 21:19:54 [INFO] wechat_spider - 搜狗 cookie 刷新成功
+2026-06-27 21:19:58 [INFO] wechat_spider - 公众号 [人民日报] 获取到 10 篇文章
+2026-06-27 21:19:58 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:19:59 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:19:59 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:19:59 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:19:59 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:19:59 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:19:59 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:19:59 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:19:59 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:19:59 [WARNING] wechat_spider - 无法解析文章真实URL: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjX
+2026-06-27 21:21:11 [INFO] wechat_spider - 使用缓存的搜狗cookie
+2026-06-27 21:21:36 [INFO] wechat_spider - 已清除缓存cookie(sogou)
+2026-06-27 21:21:47 [INFO] wechat_spider - 尝试访问搜狗首页获取session cookie...
+2026-06-27 21:21:47 [INFO] wechat_spider - 从sogou.com首页获取到 2 个 session cookie
+2026-06-27 21:21:47 [INFO] wechat_spider - cookie已缓存(sogou)
+2026-06-27 21:21:59 [INFO] wechat_spider - 已清除缓存cookie(sogou)
+2026-06-27 21:22:11 [INFO] wechat_spider - 尝试访问搜狗首页获取session cookie...
+2026-06-27 21:22:11 [INFO] wechat_spider - 从sogou.com首页获取到 2 个 session cookie
+2026-06-27 21:22:11 [INFO] wechat_spider - cookie已缓存(sogou)
+2026-06-27 21:22:23 [INFO] wechat_spider - 使用缓存的搜狗cookie
+2026-06-27 21:23:09 [INFO] wechat_spider - 使用缓存的搜狗cookie
+2026-06-27 21:23:30 [INFO] wechat_spider - 已清除缓存cookie(sogou)
+2026-06-27 21:23:44 [INFO] wechat_spider - 尝试访问搜狗首页获取session cookie...
+2026-06-27 21:23:44 [INFO] wechat_spider - 从sogou.com首页获取到 2 个 session cookie
+2026-06-27 21:23:44 [INFO] wechat_spider - cookie已缓存(sogou)
+2026-06-27 21:24:08 [INFO] wechat_spider - 使用缓存的搜狗cookie
+2026-06-27 21:24:57 [INFO] wechat_spider - 使用缓存的搜狗cookie
+2026-06-27 21:25:32 [INFO] wechat_spider - 使用缓存的搜狗cookie
+2026-06-27 21:25:58 [INFO] wechat_spider - 已清除缓存cookie(sogou)
+2026-06-27 21:26:10 [INFO] wechat_spider - 尝试访问搜狗首页获取session cookie...
+2026-06-27 21:26:10 [INFO] wechat_spider - 从sogou.com首页获取到 2 个 session cookie
+2026-06-27 21:26:10 [INFO] wechat_spider - cookie已缓存(sogou)
+2026-06-27 21:26:40 [INFO] wechat_spider - 已清除缓存cookie(sogou)
+2026-06-27 21:26:54 [INFO] wechat_spider - 尝试访问搜狗首页获取session cookie...
+2026-06-27 21:26:54 [INFO] wechat_spider - 从sogou.com首页获取到 2 个 session cookie
+2026-06-27 21:26:54 [INFO] wechat_spider - cookie已缓存(sogou)
+2026-06-27 21:29:08 [INFO] wechat_spider - 已清除缓存cookie(sogou)
+2026-06-27 21:29:23 [INFO] wechat_spider - 尝试访问搜狗首页获取session cookie...
+2026-06-27 21:29:23 [INFO] wechat_spider - 从sogou.com首页获取到 2 个 session cookie
+2026-06-27 21:29:23 [INFO] wechat_spider - cookie已缓存(sogou)
+2026-06-27 21:29:23 [INFO] wechat_spider - 搜狗 cookie 初始化成功
+2026-06-27 21:29:23 [INFO] wechat_spider - 搜索公众号 [猫笔刀] 第 1 页文章...
+2026-06-27 21:29:23 [WARNING] wechat_spider - 搜狗触发反爬验证，尝试刷新 cookie 后重试...
+2026-06-27 21:29:23 [INFO] wechat_spider - 尝试刷新搜狗 cookie...
+2026-06-27 21:29:23 [INFO] wechat_spider - 已清除缓存cookie(sogou)
+2026-06-27 21:29:31 [INFO] wechat_spider - 尝试访问搜狗首页获取session cookie...
+2026-06-27 21:29:32 [INFO] wechat_spider - 从sogou.com首页获取到 2 个 session cookie
+2026-06-27 21:29:32 [INFO] wechat_spider - cookie已缓存(sogou)
+2026-06-27 21:29:32 [INFO] wechat_spider - 搜狗 cookie 刷新成功
+2026-06-27 21:29:36 [ERROR] wechat_spider - 刷新 cookie 后仍被拦截。请手动操作：
+  1. 在浏览器中打开 https://weixin.sogou.com
+  2. 完成验证码验证
+  3. 运行: python main.py --input-cookie sogou
+  4. 粘贴浏览器中的 Cookie 值
+2026-06-27 21:29:36 [INFO] wechat_spider - 公众号 [猫笔刀] 共获取 0 篇文章
+2026-06-27 21:31:41 [INFO] wechat_spider - 已清除缓存cookie(sogou)
+2026-06-27 21:31:58 [INFO] wechat_spider - 尝试访问搜狗首页获取session cookie...
+2026-06-27 21:31:58 [INFO] wechat_spider - 从sogou.com首页获取到 2 个 session cookie
+2026-06-27 21:31:58 [INFO] wechat_spider - cookie已缓存(sogou)
+2026-06-27 21:31:58 [INFO] wechat_spider - 搜狗 cookie 初始化成功
+2026-06-27 21:31:58 [INFO] wechat_spider - 搜索公众号 [猫笔刀] 第 1 页文章...
+2026-06-27 21:31:59 [WARNING] wechat_spider - 搜狗触发反爬验证（第1页），等待后重试...
+2026-06-27 21:32:06 [INFO] wechat_spider - 尝试刷新搜狗 cookie...
+2026-06-27 21:32:06 [INFO] wechat_spider - 已清除缓存cookie(sogou)
+2026-06-27 21:32:14 [INFO] wechat_spider - 尝试访问搜狗首页获取session cookie...
+2026-06-27 21:32:14 [INFO] wechat_spider - 从sogou.com首页获取到 2 个 session cookie
+2026-06-27 21:32:14 [INFO] wechat_spider - cookie已缓存(sogou)
+2026-06-27 21:32:14 [INFO] wechat_spider - 搜狗 cookie 刷新成功
+2026-06-27 21:32:15 [ERROR] wechat_spider - 搜狗持续拦截。请手动获取 cookie：
+  1. 浏览器打开 https://weixin.sogou.com
+  2. 搜索任意公众号，完成验证码
+  3. F12 → Network → 点击搜索请求 → Headers → 复制 Cookie
+  4. 运行: python main.py --input-cookie sogou
+  5. 粘贴 Cookie 值（会缓存2小时）
+2026-06-27 21:33:13 [INFO] wechat_spider - 使用缓存的搜狗cookie
+2026-06-27 21:33:13 [INFO] wechat_spider - 搜狗 cookie 初始化成功
+2026-06-27 21:33:13 [INFO] wechat_spider - 使用缓存的微信cookie
+2026-06-27 21:33:13 [INFO] wechat_spider - 使用缓存的微信cookie
+2026-06-27 21:33:13 [INFO] wechat_spider - 已加载爬虫状态: 0 篇文章记录
+2026-06-27 21:33:13 [INFO] wechat_spider - ============================================================
+2026-06-27 21:33:13 [INFO] wechat_spider - 微信公众号爬虫启动（单次模式）
+2026-06-27 21:33:13 [INFO] wechat_spider - 时间: 2026-06-27T21:33:13.307676
+2026-06-27 21:33:13 [INFO] wechat_spider - ============================================================
+2026-06-27 21:33:13 [INFO] wechat_spider - 
+============================================================
+2026-06-27 21:33:13 [INFO] wechat_spider - 开始爬取公众号: 人民日报
+2026-06-27 21:33:13 [INFO] wechat_spider - ============================================================
+2026-06-27 21:33:13 [INFO] wechat_spider - 搜索公众号 [人民日报] 第 1 页文章...
+2026-06-27 21:33:13 [WARNING] wechat_spider - 搜狗触发反爬验证（第1页），等待后重试...
+2026-06-27 21:33:22 [INFO] wechat_spider - 尝试刷新搜狗 cookie...
+2026-06-27 21:33:22 [INFO] wechat_spider - 已清除缓存cookie(sogou)
+2026-06-27 21:33:30 [INFO] wechat_spider - 尝试访问搜狗首页获取session cookie...
+2026-06-27 21:33:30 [INFO] wechat_spider - 从sogou.com首页获取到 2 个 session cookie
+2026-06-27 21:33:30 [INFO] wechat_spider - cookie已缓存(sogou)
+2026-06-27 21:33:30 [INFO] wechat_spider - 搜狗 cookie 刷新成功
+2026-06-27 21:33:31 [INFO] wechat_spider - 公众号 [人民日报] 获取到 10 篇文章
+2026-06-27 21:38:28 [INFO] wechat_spider - 公众号 [人民日报] 共获取 2 篇文章
+2026-06-27 21:38:28 [INFO] wechat_spider - 
+--- [1/2] 停车61分钟按2小时计费,人民日报:一些城市管理者将停车问题念成了“生意经”,停 ---
+2026-06-27 21:39:28 [INFO] wechat_spider - 抓取文章: https://mp.weixin.qq.com/s?src=11&timestamp=1782567210&ver=6808&signature=RxDBagPP0dHEuxS7W4uZdXsRPler9WlXkT8u8Na7gL2BSfueUXc69xmg5eTno807IscsuLd1NsDzyu9gzir49OLmVdeNfHUIIHUVAyXyadnqpBrVIU8CJdiIgh0cocsh&new=1
+2026-06-27 21:39:28 [INFO] wechat_spider - 文章解析完成: 停车61分钟按2小时计费，人民日报：一些城市管理者将停车问题念成了“生意经”，停车计费就该是本“分秒必争”的明白账 [id=2653335604_2]
+2026-06-27 21:39:28 [INFO] wechat_spider - ✚ 新文章，完整保存...
+2026-06-27 21:40:29 [INFO] wechat_spider - 获取评论，comment_id=4579550469676908545
+2026-06-27 21:40:29 [WARNING] wechat_spider - 评论API触发微信验证，无法获取评论。解决方法：在config.WECHAT_COOKIE中配置有效的微信cookie，或通过微信客户端抓包获取key参数填入config
+2026-06-27 21:40:29 [INFO] wechat_spider - 文章JSON已保存: 2026-06-27_停车61分钟按2小时计费，人民日报：一些城市管理者将停车问题念成了“生意经”，停.json
+2026-06-27 21:40:29 [INFO] wechat_spider - 文章Markdown已保存: 2026-06-27_停车61分钟按2小时计费，人民日报：一些城市管理者将停车问题念成了“生意经”，停.md
+2026-06-27 21:40:29 [INFO] wechat_spider - 
+--- [2/2] 人民日报警告:请告诉你的孩子,人生这条路上,不会有人一直催着你、管着你、叫你起床 ---
+2026-06-27 21:41:46 [INFO] wechat_spider - 抓取文章: https://mp.weixin.qq.com/s?src=11&timestamp=1782567210&ver=6808&signature=mYlwNK7X0yqWOX8R3WAD0Lc94NmB3phQt7vIauX6SbOMHqTOs5aYS7d9bl7iEEmsjmfcK4lnZr1W1FWqm-kx7AnSfJF1s-BEI-97nS4wWt7lq05zBPAI**fGkaS80Nt6&new=1
+2026-06-27 21:41:47 [INFO] wechat_spider - 文章解析完成: 人民日报警告：请告诉你的孩子，人生这条路上，不会有人一直催着你、管着你、叫你起床、看你写作业… [id=2247979513_1]
+2026-06-27 21:41:47 [INFO] wechat_spider - ✚ 新文章，完整保存...
+2026-06-27 21:43:44 [INFO] wechat_spider - 获取评论，comment_id=4579278415475687430
+2026-06-27 21:43:44 [WARNING] wechat_spider - 评论API触发微信验证，无法获取评论。解决方法：在config.WECHAT_COOKIE中配置有效的微信cookie，或通过微信客户端抓包获取key参数填入config
+2026-06-27 21:43:44 [INFO] wechat_spider - 文章JSON已保存: 2026-06-27_人民日报警告：请告诉你的孩子，人生这条路上，不会有人一直催着你、管着你、叫你起床.json
+2026-06-27 21:43:44 [INFO] wechat_spider - 文章Markdown已保存: 2026-06-27_人民日报警告：请告诉你的孩子，人生这条路上，不会有人一直催着你、管着你、叫你起床.md
+2026-06-27 21:43:44 [INFO] wechat_spider - 公众号 [人民日报] 处理完成: 新增 2 篇, 评论更新 0 篇, 保留 0 篇
